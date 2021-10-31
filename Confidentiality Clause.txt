@@ -1,0 +1,2 @@
+This project contains the non-confidential code that I had written for my Internship in Summer 2021.
+All confidential files have been omitted.
